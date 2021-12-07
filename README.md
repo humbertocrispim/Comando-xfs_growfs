@@ -25,9 +25,8 @@ Note que exitem um espaço livre de 5G, entao iremos alocar este espaço ao disc
 
 
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/79642492/145094863-0820c88f-5e16-499e-a9d7-a9af8e9e9a51.gif)
 
-
-![Clique aqui](https://user-images.githubusercontent.com/79642492/145090757-20b34872-7671-42c7-a055-274219f6b0d7.gif)
 
 
 
