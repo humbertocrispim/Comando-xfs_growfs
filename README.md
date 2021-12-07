@@ -5,4 +5,6 @@ Primeiro va ate a pagina web do Promox, escolha a VM que deseja alterar,va em Ha
 ![image](https://user-images.githubusercontent.com/79642492/145046544-d9cd555d-3b78-4119-a477-4bb0518fd9ed.png)
 
 Apos coloque o valor em GB que deseja expandir
+
+
 ![image](https://user-images.githubusercontent.com/79642492/145047219-4b13eb19-8191-4e5c-956e-38ea00a69b0b.png)
