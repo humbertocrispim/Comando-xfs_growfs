@@ -1,4 +1,6 @@
 # Comando xfs_growfs para aumentar o tamanho de um sistema de arquivos XFS + Proxmox
+
+
 No exemplo abaixo mostrarei como expamdir (resize),um sitema de arquivo tipo XFS, para este exemplo usarei um sistema virtualizado Promox, na versao PVE 7.0.1
 
 Primeiro va ate a pagina web do Promox, escolha a VM que deseja alterar,va em Hardware > Hard Disk >Resize Disk, coloque o valor em GB que deseja expandir, no exemplo 5GBi:
@@ -24,7 +26,9 @@ Note que exitem um espaço livre de 5G, entao iremos alocar este espaço ao disc
 
 
 
-![cfdisk](https://user-images.githubusercontent.com/79642492/145088712-9747f482-800f-4cd1-b6e1-689b60f9c568.gif)
+
+![Clique aqui](https://user-images.githubusercontent.com/79642492/145090757-20b34872-7671-42c7-a055-274219f6b0d7.gif)
+
 
 
 
