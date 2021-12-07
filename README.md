@@ -11,7 +11,8 @@ Apos a auteraçao, sera nescessario expamdir o disco da VM em questao, para isso
 
 ![image](https://user-images.githubusercontent.com/79642492/145049093-1486d282-4666-4133-9bb4-59c6a9729582.png)
 
-### cfdisk /dev/sda
+</div>
+cfdisk /dev/sda
 
 Note que exitem um espaço livre de 5G, entao iremos alocar este espaço ao disco sda1
 
