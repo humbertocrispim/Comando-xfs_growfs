@@ -19,3 +19,14 @@ Apos a auteraçao, sera nescessario expamdir o disco da VM em questao, para isso
 Note que exitem um espaço livre de 5G, entao iremos alocar este espaço ao disco sda1
 
 ![image](https://user-images.githubusercontent.com/79642492/145049584-462df95f-c0e7-4803-bb7a-eb2a1f55215c.png)
+
+
+
+
+
+![cfdisk](https://user-images.githubusercontent.com/79642492/145088712-9747f482-800f-4cd1-b6e1-689b60f9c568.gif)
+
+
+
+
+
